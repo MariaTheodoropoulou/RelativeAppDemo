@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RelativeAppDemo</string>
+    <string name="some_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique convallis mauris, in imperdiet urna dictum in. Etiam sed lectus sed magna dignissim luctus. Mauris convallis tellus nec malesuada tempor. Integer tincidunt mi non neque pharetra, at ultrices purus accumsan.
+
+Phasellus gravida lorem nec ipsum aliquam, vitae cursus purus malesuada. Donec tincidunt quam vel arcu egestas, vel pulvinar nulla sollicitudin. Nullam euismod velit sed justo fermentum, nec      oris nisi ut aliquip ex ea commodo consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed non arcu ut eros tincidunt facilisis. Integer efficitur, nibh nec varius dictum, nisi ante congue ligula, vel dapibus ex risus in dolor.</string>
+</resources>
