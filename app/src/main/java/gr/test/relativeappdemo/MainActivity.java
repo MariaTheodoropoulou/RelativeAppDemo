@@ -1,5 +1,6 @@
 package gr.test.relativeappdemo;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -56,7 +57,10 @@ public class MainActivity extends AppCompatActivity {
         submitBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //TODO: Intent to SecondActivity
+                Intent intent = new Intent(MainActivity.this, SecondActivity.class);
+                intent.putExtra("rating" , ratingStars);
+                intent.putExtra("age", age);
+                startActivity(intent);
             }
         });
 
